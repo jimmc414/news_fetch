@@ -1,0 +1,7 @@
+Title: TNW 365: Android XR Is Google's Spatial Computing OS - OpenAI Sora, Automattic, Image Playground
+Author: TWiT
+Source: newsapi
+Published: 2024-12-12T23:30:00Z
+URL: https://twit.tv/shows/tech-news-weekly/episodes/365
+----------------------------------------
+Amanda Silberling of TechCrunch joins us this week! Did OpenAI's Sora video generation model train on gaming and streaming content? A judge ruled that Automattic is to stop blocking WP Engine's acces… [+955 chars]

@@ -1,0 +1,8 @@
+Title: ChatGPT is down, as OpenAI reports major outage
+Author: Stephen Schenck
+Source: newsapi
+Published: 2024-12-11T23:57:35Z
+URL: https://www.androidauthority.com/openai-outage-3507961/
+----------------------------------------
+<ul><li>OpenAI is currently suffering a widespread outage.</li><li>ChatGPT, Sora, and access to the companys API are all affected.</li></ul>
+Today is just not the day to be a major tech player, as m… [+921 chars]

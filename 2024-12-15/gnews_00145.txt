@@ -1,0 +1,7 @@
+Title: The unreasonable effectiveness of the Julia programming language
+Author: Ars Technica
+Source: gnews
+Published: 2020-10-09T11:15:32Z
+URL: https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/
+----------------------------------------
+I’ve been running into a lot of happy and excited scientists lately. “Running into” in the virtual sense, of course, as conferences and other opportunities to collide with scientists in meatspace have been all but eliminated. Most scientists believe ... [6284 chars]

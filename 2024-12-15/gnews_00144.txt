@@ -1,0 +1,8 @@
+Title: One of the oldest programming languages might be making a comeback
+Author: TechRadar
+Source: gnews
+Published: 2021-04-06T21:30:44Z
+URL: https://www.techradar.com/news/one-of-the-oldest-programming-languages-might-be-making-a-comeback
+----------------------------------------
+Fortran, conceived at IBM in the late 1950s as a more practical alternative to the assembly language, has re-entered the list of top 20 programming languages, over a half a century after it was first released.
+According to the April 2021 statistics b... [1502 chars]

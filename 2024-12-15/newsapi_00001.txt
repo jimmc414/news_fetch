@@ -1,0 +1,8 @@
+Title: Plotting Prime Numbers (2021)
+Author: aragonite
+Source: newsapi
+Published: 2024-12-15T07:41:39Z
+URL: https://jaketae.github.io/study/prime-spirals/
+----------------------------------------
+Todays article was inspired by a question that came up on a Korean mathematics Facebook group Im part of. The gist of the question could probably be translated into something like this:
+Why is it th… [+10207 chars]

@@ -1,0 +1,7 @@
+Title: Decades-old programming languages Fortran and Cobol are still thriving
+Author: TechSpot
+Source: gnews
+Published: 2024-05-20T18:09:55Z
+URL: https://www.techspot.com/news/103074-decades-old-programming-languages-fortran-cobol-thriving.html
+----------------------------------------
+Old Glories: Fortran and Cobol are still among the world's most popular programming languages despite being almost 70 years old. They're certainly overachieving, but for entirely different reasons, and neither seem unwilling to go out of fashion as n... [2597 chars]

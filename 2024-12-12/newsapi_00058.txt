@@ -1,0 +1,8 @@
+Title: What’s New in ArcGIS Earth (December 2024)
+Author: Cliff Song
+Source: newsapi
+Published: 2024-12-12T23:38:39Z
+URL: https://www.esri.com/arcgis-blog/products/arcgis-earth/3d-gis/whats-new-in-arcgis-earth-december-2024/
+----------------------------------------
+Hello, Users and GIS Enthusiasts,
+As the year wraps up, its time to end strong with some exciting treats. The latest release of ArcGIS Earth is here, packed with new features to enhance your product… [+11581 chars]
